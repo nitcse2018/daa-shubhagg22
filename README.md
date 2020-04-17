@@ -1,4 +1,10 @@
-# daa-shubhagg22
-daa-shubhagg22 created by GitHub Classroom
-Contains the detailed codes of 5 given algorithms in the assignment 
-JAVA : contain resume builder GUI using java awt
+DAA: The current repository contains the following the problems on the following algorithms:
+Divide and conquer
+Backtracking
+Greedy method
+Dynamic programming
+Branch and bound
+
+Submitted By:
+Shubham Aggarwal 
+181210052
