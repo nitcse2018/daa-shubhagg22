@@ -1,9 +1,9 @@
 DAA: The current repository contains the following the problems on the following algorithms:
-Divide and conquer
-Backtracking
-Greedy method
-Dynamic programming
-Branch and bound
+1.Divide and conquer
+2.Backtracking
+3.Greedy method
+4.Dynamic programming
+5.Branch and bound
 
 Submitted By:
 Shubham Aggarwal 
