@@ -17,7 +17,7 @@ public class bytestream {
 				o.write(ch);
 			}
 			o.close();
-			i.close(;)
+			i.close();
 		}
 		catch(Exception e){
 			System.out.println("operation not possible");
